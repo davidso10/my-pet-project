@@ -1,0 +1,47 @@
+/* FFD9DA */
+/* EA638C */
+/* 89023E */
+/* 30343F */
+/* 1B2021 */
+
+body{
+  font-family: Arial, sans-serif;
+  background-color: #ffd9da;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+nav{
+  background-color: black;
+  height: 2rem;
+}
+
+img{
+  margin: 2rem 0rem 0rem 2rem;
+  width: 35rem;
+  height: 35rem;
+  border-radius: 100%;
+  box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+img:hover{
+ margin: 2rem 0rem 0rem 2rem;
+ width: 38rem;
+ height: 35rem;
+ border-radius: 100%;
+ box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.img-container{
+  text-align: center;
+
+}
+
+#logo{
+  color: white;;
+  /* margin: 5rem 4rem; */
+  padding: 0.5rem 3.5rem 0rem 1.5rem
+}
